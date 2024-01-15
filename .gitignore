@@ -1,0 +1,56 @@
+# *.aux, *.log, *.toc, *.out, *.synctex.gz：这些是LaTeX在编译过程中生成的辅助文件，通常无需保留
+
+# *.acn, *.acr, *.alg, *.bbl, *.blg, *.glg, *.glo, *.gls, *.ist, *.lof, *.lot, *.maf, *.mtc, *.mtc1, *.nlg, *.nlo, *.slg, *.slo, *.stg, *.stt, *.xdy, *.tdo：这些是LaTeX编译生成的索引、术语定义、目录以及其他类型的辅助文件
+
+# *.dvi, *.ps, *.pdf：这些是LaTeX编译生成的输出文件，可以根据需要决定是否保留
+
+# *.swp, *~, .#*, *.bak, *.backup, *.sav, *.tmproj, *.tmproj.*, *.sublime-workspace, *.sublime-project, .vscode/, .idea/：这些是各种编辑器和IDE生成的临时文件、备份文件和配置文件
+
+# LaTeX build files
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.glg
+*.glo
+*.gls
+*.ist
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.nlg
+*.nlo
+*.slg
+*.slo
+*.stg
+*.stt
+*.xdy
+*.tdo
+
+# # Generated files
+# *.dvi
+# *.ps
+# *.pdf
+
+# Editor and IDE files
+*.swp
+*~
+.#*
+*.bak
+*.backup
+*.sav
+*.tmproj
+*.tmproj.*
+*.sublime-workspace
+*.sublime-project
+.vscode/
+.idea/
+*.bak

@@ -1,0 +1,59 @@
+\hypersetup {hidelinks}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Research background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Research progress}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Main research contents and objectives}{1}{section.1.3}%
+\contentsline {chapter}{\numberline {2}The Introduction of Latex Template}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Understanding Template Composition}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Main File}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Chapters File}{2}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Figures File}{2}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Reference File}{2}{section.2.5}%
+\contentsline {section}{\numberline {2.6}The Chapter’s Conclusion}{2}{section.2.6}%
+\contentsline {chapter}{\numberline {3}The Compile Method of Chart, Formula , Code and Reference }{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Inserts an Image Into the Document}{3}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Insertion of a Single Image}{3}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}The Insertion of Two Side-by-side Pictures}{3}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Example of Table Compile}{4}{section.3.2}%
+\contentsline {section}{\numberline {3.3}The Insertion of Formula}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Reference Management}{10}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Citation and Insertion of References in Latex}{10}{subsection.3.4.1}%
+\contentsline {section}{\numberline {3.5}Definition and Proof}{10}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Code Insertion Method}{11}{section.3.6}%
+\contentsline {section}{\numberline {3.7}The Standard Expression}{13}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Terminology}{13}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Figures}{13}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Foreign Letters}{13}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.4}Quantities and Units}{14}{subsection.3.7.4}%
+\contentsline {subsection}{\numberline {3.7.5}The scalar and Vector}{14}{subsection.3.7.5}%
+\contentsline {section}{\numberline {3.8}The Chapter’s Conclusion}{14}{section.3.8}%
+\contentsline {chapter}{\numberline {4}The Instruction of Printing}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Cover Sheet}{15}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Envelope}{15}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}The First Envelope}{15}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}The second Envelope}{15}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}The Abstract in Chinese and English}{15}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}The Abstract in Chinese}{15}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}The Abstract in English}{15}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Contents}{15}{section.4.3}%
+\contentsline {section}{\numberline {4.4}The Text}{15}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}The Text}{15}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.5}The Chapter's Conclusion}{15}{section.4.5}%
+\contentsline {chapter}{\numberline {5}The Fourth Chapter Title}{16}{chapter.5}%
+\contentsline {section}{\numberline {5.1}The First Quarter Title}{16}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}The First Quarter Level 1 title}{16}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}The Second Quarter Title}{16}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}The Second Quarter Level 1 title}{16}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3} The Chapter’s Conclusion}{16}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusions and Prospection}{17}{chapter.6}%
+\contentsline {section}{\numberline {6.1} Conclusions}{17}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Highlights}{17}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Prospection}{17}{section.6.3}%
+\contentsline {chapter}{References}{18}{chapter*.17}%
+\contentsline {chapter}{\numberline {A}Appendix A}{19}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Appendix A1}{19}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Appendix A2}{19}{section.A.2}%
+\contentsline {chapter}{\numberline {B}Use Guide of Ph.D Dissertation}{21}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Basic Instructions for Using Latex}{21}{section.B.1}%
+\contentsline {chapter}{Achievements}{23}{appendix*.23}%
+\contentsline {chapter}{Acknowledgements}{25}{appendix*.24}%
